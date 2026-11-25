@@ -1,0 +1,1 @@
+{"description":"One line: the excuse an AI agent gives its human when something has gone wrong, written for make.fun's \"The One-Line Excuse Championship\" bounty.","license":"MIT","main":"main.ts","name":"one-line-excuse-reward-model","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
